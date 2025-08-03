@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodOrdering/static/css/main.1c9e2493.css",
+    "main.js": "/FoodOrdering/static/js/main.d5e1b9e7.js",
+    "index.html": "/FoodOrdering/index.html",
+    "main.1c9e2493.css.map": "/FoodOrdering/static/css/main.1c9e2493.css.map",
+    "main.d5e1b9e7.js.map": "/FoodOrdering/static/js/main.d5e1b9e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9e2493.css",
+    "static/js/main.d5e1b9e7.js"
+  ]
+}
